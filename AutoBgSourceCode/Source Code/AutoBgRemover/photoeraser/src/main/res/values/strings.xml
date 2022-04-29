@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="permission">Permission!</string>
+    <string name="permission_des">Grant these permissions to use Auto Cut</string>
+    <string name="permission_des1">Note: You can also give permissions in Settings --> apps --> Auto Cut -->Permissions</string>
+    <string name="settings">Settings</string>
+    <string name="storage">Storage</string>
+    <string name="camera">Camera</string>
+
+    <string name="adv_edit">Edit</string>
+    <string name="alert">alert</string>
+    <string name="all_set">You are all set</string>
+    <string name="app_name">Background Eraser</string>
+    <string name="auto">Auto</string>
+    <string name="back">Back</string>
+    <string name="compare_img">- You can also change brush SHAPE.</string>
+    <string name="cont">Continue</string>
+    <string name="cut_inside">Cut Inside</string>
+    <string name="cut_outside">Cut Outside</string>
+    <string name="done">Done</string>
+    <string name="drag_bw">Drag POINTER to restore image.</string>
+    <string name="drag_color">Drag POINTER to erase.</string>
+    <string name="draw_lasso">Draw a closed path.</string>
+    <string name="erase">Erase</string>
+    <string name="error">Error</string>
+    <string name="exit_cut_page">Do you want to exit without saving?</string>
+    <string name="firebase_database_url">https://catcamera-c8f64.firebaseio.com</string>
+    <string name="image_saved">Image saved:</string>
+    <string name="import_error">Error while getting image.</string>
+    <string name="import_img_warning">Please import image!!!</string>
+    <string name="importing_image">Importing image...</string>
+    <string name="inst_bw_btn">Click RESTORE button to restore image</string>
+    <string name="inst_color_inside">Click below button to cut inside the path</string>
+    <string name="inst_color_outside">Click below button to cut outside the path</string>
+    <string name="inst_manual_btn">Click ERASE button to erase</string>
+    <string name="inst_up_arrow">Click UP arrow to get options</string>
+    <string name="inst_zoom_btn">Click ZOOM button to drag and zoom image.</string>
+    <string name="lasso">Extract</string>
+    <string name="no">No</string>
+    <string name="offset">Offset</string>
+    <string name="ok">OK</string>
+    <string name="ok_got_it">OK, Got It</string>
+    <string name="select_picture">Select Picture Using</string>
+
+    <string name="processing">processing</string>
+    <string name="processing_image">Processing image...</string>
+    <string name="radius">Size</string>
+    <string name="redoing">Redoing</string>
+    <string name="removing">Auto remove background</string>
+    <string name="restore">Restore</string>
+    <string name="search_menu_title">Search</string>
+    <string name="skip">Skip</string>
+    <string name="smooth">Smooth</string>
+    <string name="smoothning">Smoothening</string>
+    <string name="some_tips">Some tips for you :-</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="targate_drag">Drag POINTER to select background.</string>
+    <string name="threshold">Threshold</string>
+    <string name="tut_ext_msg">Skip Tutorial?</string>
+    <string name="tut_ext_title">Tutorial</string>
+    <string name="tut_msg">Let\'s get you started with a quick tutorial.</string>
+    <string name="tut_title">Tutorial</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="undoing">Undoing</string>
+    <string name="undoredo">- You can perform UNDO and REDO</string>
+    <string name="yes">Yes</string>
+    <string name="zoom">Zoom</string>
+    <string name="zoom_pinch">Drag and pinch image to zoom.</string>
+</resources>

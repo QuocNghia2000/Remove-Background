@@ -1,0 +1,22 @@
+
+j
+java:S1104"TMake iconList a static final constant or non-public and provide accessors if needed.(÷ÄÆ
+r
+java:S1104"\Make selectedPosition a static final constant or non-public and provide accessors if needed.(¢™’¦
+p
+java:S1104)"UMake imageView a static final constant or non-public and provide accessors if needed.(…Çªúÿÿÿÿ
+n
+java:S1450*"SRemove the "item" field and declare it as a local variable in the relevant methods.(£ˆü™ÿÿÿÿÿ
+J
+java:S1172S"/Remove this unused method parameter "viewType".(ÅÓâÀşÿÿÿÿ
+S
+java:S1874m"8Remove this use of "getChildPosition"; it is deprecated.(¿†ÛÕúÿÿÿÿ
+V
+java:S1874n"ARemove this use of "findViewHolderForPosition"; it is deprecated.(ªì»K
+@
+java:S1068'"+Remove this unused "context" private field.(êİç
+B
+java:S1068("'Remove this unused "TAG" private field.(Á‘Ùğÿÿÿÿÿ
+C
+java:S1068*"(Remove this unused "item" private field.(£ˆü™ÿÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(Ù†Œ·ÿÿÿÿÿ

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_transparent">#64000000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorFooter">#375393</color>
+    <color name="colorMainBackground">#fff</color>
+    <color name="colorPrimary">#375393</color>
+    <color name="colorPrimaryDark">#203f74</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorSelected">#ffffff</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="primary">#203f74</color>
+    <color name="primary_dark">#203f74</color>
+
+    </resources>

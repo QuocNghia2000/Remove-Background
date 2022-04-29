@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">AutoBgRemover</string>
+
+    <string name="select_picture">Select Picture Using</string>
+    <string name="permission">Permission!</string>
+    <string name="permission_des">Grant these permissions to use AutoBgRemover</string>
+    <string name="permission_des1">Note: You can also give permissions in Settings --> apps --> AutoBgRemover -->Permissions</string>
+    <string name="settings">Settings</string>
+    <string name="storage">Storage</string>
+    <string name="camera">Camera</string>
+    <string name="delete_confirm">Are you sure you want to delete?</string>
+    <string name="delete_no">CANCEL</string>
+    <string name="delete_yes">DELETE</string>
+    <string name="filter_Earlybird">EarlyBird</string>
+    <string name="filter_amaro">Amaro</string>
+    <string name="filter_antique">Antique</string>
+    <string name="filter_beauty">Beauty</string>
+    <string name="filter_blackcat">BlackCat</string>
+    <string name="filter_brannan">Brannan</string>
+    <string name="filter_brooklyn">Brooklyn</string>
+    <string name="filter_calm">Calm</string>
+    <string name="filter_cool">Cool</string>
+    <string name="filter_crayon">Crayon</string>
+    <string name="filter_emerald">Emerald</string>
+    <string name="filter_evergreen">Evergreen</string>
+    <string name="filter_fairytale">Fairytale</string>
+    <string name="filter_freud">Freud</string>
+    <string name="filter_healthy">Healthy</string>
+    <string name="filter_hefe">Hefe</string>
+    <string name="filter_hudson">Hudson</string>
+    <string name="filter_inkwell">Inkwell</string>
+    <string name="filter_kevin">Kevin</string>
+    <string name="filter_latte">Latte</string>
+    <string name="filter_lomo">Lomo</string>
+    <string name="filter_n1977">1977</string>
+    <string name="filter_nashville">Nashville</string>
+    <string name="filter_none">Original</string>
+    <string name="filter_nostalgia">Nostalgia</string>
+    <string name="filter_pixar">Pixar</string>
+    <string name="filter_rise">Rise</string>
+    <string name="filter_romance">Romance</string>
+    <string name="filter_sakura">Sakura</string>
+    <string name="filter_sierra">Sierra</string>
+    <string name="filter_sketch">Sketch</string>
+    <string name="filter_skinwhiten">SkinWhiten</string>
+    <string name="filter_sunrise">Sunrise</string>
+    <string name="filter_sunset">Sunset</string>
+    <string name="filter_sutro">Sutro</string>
+    <string name="filter_sweets">Sweets</string>
+    <string name="filter_tender">Tender</string>
+    <string name="filter_toastero">Toaster2</string>
+    <string name="filter_walden">Walden</string>
+    <string name="filter_warm">Warm</string>
+    <string name="filter_whitecat">WhiteCat</string>
+    <string name="filter_xproii">XproII</string>
+
+    <string name="directory">/Beauty Camera Collage Editor/</string>
+
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="effect_parameter_bundle_name">global_parameter</string>
+    <string name="gallery_lib_max">Max %d</string>
+    <string name="gallery_select_an_album">Select Album</string>
+    <string name="gallery_no_more">No More item</string>
+    <string name="gallery_select_one">Select one</string>
+    <string name="canvas_text_enter_text">Please enter text</string>
+    <string name="collage_lib_delete_message">Do you want to delete image?</string>
+    <string name="preview_text">Preview Text</string>
+    <string name="canvas_text_hint">Preview Text</string>
+    <string name="canvas_text_color">Color</string>
+
+
+    <string name="id_facebook_banner">YOUR_PLACEMENT_ID</string>
+    <string name="id_facebook_fullscreen">YOUR_PLACEMENT_ID</string>
+    <string name="app_id">ca-app-pub-1352846817713612~8595084475</string>
+    <string name="id_google_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="id_google_fullscreen">ca-app-pub-3940256099942544/1033173712</string>
+
+
+</resources>
